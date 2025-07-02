@@ -34,4 +34,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**NexusAI** © 2023 | [Contact Us](disec.solutions@gmail.com) | [Privacy Policy](#)
+**DiAISEC* © 2023 | [Contact Us](disec.solutions@gmail.com) | [Privacy Policy](#)
