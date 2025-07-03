@@ -1,6 +1,6 @@
 # DiSEC - Custom Generative AI Solutions
 
-![DiSEC Banner](https://drive.google.com/file/d/1woPfEODAZEaUgwRjd31flrYqfB8GBXnj/view?usp=sharing)
+![DiSEC Banner](DiSECbanner)
 
 A responsive single-page website for NexusAI, showcasing our custom generative AI technology solutions for businesses.
 
